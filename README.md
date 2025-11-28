@@ -1,0 +1,1 @@
+This MATLAB script, titled "2D Convolution & FIR Filters," explores fundamental image processing operations by treating images as 2D signals and applying various Finite Impulse Response (FIR) filters (kernels) via 2D convolution. The lab demonstrates blurring, sharpening, edge detection, and the nuances of convolution itself.
